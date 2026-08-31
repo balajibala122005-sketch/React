@@ -7,6 +7,7 @@ import Task2 from "./Task2"
 import Task3 from "./Task3"
 
 import Task1 from "./Task1"
+import Fruit from "./Fruit"
 const App =()=>{
 // //   // return <h1>hello</h1>
 // //   // let info={age : 20 ,role : jsd ,city : MDU}
@@ -31,6 +32,7 @@ return(
   <Task1/>
   <Task2/>
   <Task3/>
+  <Fruit/>
   </>
 )
 }
